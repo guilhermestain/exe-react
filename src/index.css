@@ -1,0 +1,10 @@
+.buttonClickInc{
+    background: blue;
+    border-radius: 7px;
+    padding: 4px 14px;
+}
+.buttonClickDec{
+    background: red;
+    border-radius: 7px;
+    padding: 4px 14px;
+}
